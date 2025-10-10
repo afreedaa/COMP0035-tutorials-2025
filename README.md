@@ -1,4 +1,4 @@
-# COMP0035 2025-26 Weekly practical activities
+# COMP0035 2025-26 Weekly practical activities 
 
 This repository contains the activities for the COMP0035 module for the academic year 2025-26.
 
